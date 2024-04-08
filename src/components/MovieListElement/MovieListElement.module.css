@@ -1,0 +1,14 @@
+.link {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
+  color: inherit;
+  transition: transform 500ms, color 500ms;
+  width: 200px;
+}
+
+.link:hover {
+  transform: scale(1.1);
+  color: #ffeac0;
+}

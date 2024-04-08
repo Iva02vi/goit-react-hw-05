@@ -1,0 +1,13 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  font-size: 20px;
+  padding: 16px;
+  background-color: #ffe5b8;
+  font-weight: 700;
+}
+
+.active {
+  color: #2f241f;
+}
